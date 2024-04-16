@@ -79,9 +79,9 @@ An app designed to help users discover and support local businesses while travel
 ## :beginner: Evaluated Idea #1
 **:small_blue_diamond:Project Name:** TravelDreams on a Budget  
 **:small_blue_diamond:Category:** Travel  
-**:small_blue_diamond:Mobile:** Integrate features such as real-time data updates for affordable accommodations and transportation, personalized suggestions based on user preferences, and push notifications for exclusive deals, ensuring a user-friendly and efficient travel planning experience directly on users' iPhones.
-**:small_blue_diamond:Story:** Empowers travelers to pursue their wanderlust by providing personalized and budget-friendly itineraries, transforming dreams of exploration into achievable realities.
-**:small_blue_diamond:Market:** Targets a vast market of budget-conscious travelers seeking affordable and convenient ways to plan their trips without sacrificing quality experiences.
+**:small_blue_diamond:Mobile:** Integrate features such as real-time data updates for affordable accommodations and transportation, personalized suggestions based on user preferences, and push notifications for exclusive deals, ensuring a user-friendly and efficient travel planning experience directly on users' iPhones  
+**:small_blue_diamond:Story:** Empowers travelers to pursue their wanderlust by providing personalized and budget-friendly itineraries, transforming dreams of exploration into achievable realities  
+**:small_blue_diamond:Market:** Targets a vast market of budget-conscious travelers seeking affordable and convenient ways to plan their trips without sacrificing quality experiences  
 
 ## :beginner: Evaluated Idea #2
 **:small_blue_diamond:Project Name:** Local Gems Explorer  
