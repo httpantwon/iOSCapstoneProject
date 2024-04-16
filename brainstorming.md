@@ -89,7 +89,10 @@ An app designed to help users discover and support local businesses while travel
 **:small_blue_diamond:Project Name:** Local Gems Explorer  
 **:small_blue_diamond:Category:** Lifestyle  
 **:small_blue_diamond:Mobile:**  
-1. Will need backend components to handle server-side logic, data storage, and communication with external services. For the backend, I can use Swift frameworks like Vapor or Perfect, or integrate with backend-as-a-service (BaaS) platforms such as Firebase or AWS Amplify. These backend solutions may allow me to implement features like user authentication, data storage, and real-time updates for your app
+1. **Maps:** Users can explore local businesses and attractions on an interactive map, enabling seamless navigation to their desired destinations  
+2. **Location:** Utilizing the device's GPS capabilities, the app provides personalized recommendations based on the user's current location, ensuring relevance and convenience  
+3. **Real-time:** Users receive real-time updates on nearby deals, events, and promotions, keeping them informed and engaged throughout their travel journey  
+4. **Push Notifications:** The app sends push notifications for exclusive deals, nearby gems, and personalized recommendations, enhancing user engagement and interaction  
 
 **:small_blue_diamond:Story:** Bridges the gap between travelers and authentic local experiences, fostering a deep connection between users and the vibrant communities they visit  
 **:small_blue_diamond:Market:** Any traveler
