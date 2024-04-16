@@ -26,7 +26,6 @@ A lot of people cancel trips because they can't afford them. These problems aris
 1. I could use APIs from trusted sources like Expedia, Hotels.com, etc., flight aggregators, and deal websites. I also need ot regularly update my database to make sure information is accurate
 2. For difficult algorithms, gather user feedback and behavior data to continuously improve the accuracy of recommendations. Thoroughly test and refine algorithms to make sure they provide relevant and personalized suggestions
 
-
 ## :beginner: App Idea #2
 
 **:small_blue_diamond:Project Name:** Local Translator App  
@@ -78,22 +77,16 @@ An app designed to help users discover and support local businesses while travel
 # Evaluated Ideas
 
 ## :beginner: Evaluated Idea #1
-
 **:small_blue_diamond:Project Name:** TravelDreams on a Budget  
 **:small_blue_diamond:Category:** Travel  
-**:small_blue_diamond:Mobile:** UI will have a similar interface to Expedia, implementing Table Views  
-**:small_blue_diamond:Story:** Creates a relationship between a person's desires and their spending power!  
-**:small_blue_diamond:Market:** Those with financial constraints who have a deep desire to travel  
+**:small_blue_diamond:Mobile:** Integrate features such as real-time data updates for affordable accommodations and transportation, personalized suggestions based on user preferences, and push notifications for exclusive deals, ensuring a user-friendly and efficient travel planning experience directly on users' iPhones.
+**:small_blue_diamond:Story:** Empowers travelers to pursue their wanderlust by providing personalized and budget-friendly itineraries, transforming dreams of exploration into achievable realities.
+**:small_blue_diamond:Market:** Targets a vast market of budget-conscious travelers seeking affordable and convenient ways to plan their trips without sacrificing quality experiences.
 
 ## :beginner: Evaluated Idea #2
 **:small_blue_diamond:Project Name:** Local Gems Explorer  
 **:small_blue_diamond:Category:** Lifestyle  
-**:small_blue_diamond:Mobile:**  
-1. **Maps:** Users can explore local businesses and attractions on an interactive map, enabling seamless navigation to their desired destinations  
-2. **Location:** Utilizing the device's GPS capabilities, the app provides personalized recommendations based on the user's current location, ensuring relevance and convenience  
-3. **Real-time:** Users receive real-time updates on nearby deals, events, and promotions, keeping them informed and engaged throughout their travel journey  
-4. **Push Notifications:** The app sends push notifications for exclusive deals, nearby gems, and personalized recommendations, enhancing user engagement and interaction  
-
+**:small_blue_diamond:Mobile:** Maximizes mobile capabilities, integrating maps, location services, push notifications, and real-time updates for an immersive travel experience  
 **:small_blue_diamond:Story:** Bridges the gap between travelers and authentic local experiences, fostering a deep connection between users and the vibrant communities they visit  
 **:small_blue_diamond:Market:** Targets a broad audience of budget-conscious travelers seeking authentic experiences and supporting local businesses, presenting a significant opportunity in the growing sustainable tourism sector  
 **:small_blue_diamond:Habit:** With personalized recommendations, real-time updates, and gamification elements, Local Gems Explorer fosters frequent engagement, becoming a go-to tool for travelers seeking hidden gems and deals  
