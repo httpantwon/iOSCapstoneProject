@@ -81,7 +81,7 @@ An app designed to help users discover and support local businesses while travel
 **:small_blue_diamond:Category:** Travel  
 **:small_blue_diamond:Mobile:** Offers real-time updates on affordable accommodations, transportation options, and exclusive deals, facilitating seamless travel planning on users' iPhones  
 **:small_blue_diamond:Story:** Empowers travelers to pursue their wanderlust by providing personalized and budget-friendly itineraries, transforming dreams of exploration into achievable realities  
-**:small_blue_diamond:Market:** Targets a vast market of budget-conscious travelers seeking affordable and convenient ways to plan their trips without sacrificing quality experiences 
+**:small_blue_diamond:Market:** Targets a vast market of budget-conscious travelers seeking affordable and convenient ways to plan their trips without sacrificing quality experiences  
 **:small_blue_diamond:Habit:** Fosters habitual usage through personalized recommendations, timely notifications for savings opportunities, and seamless integration with users' travel routines, ensuring frequent engagement and trust in the app's budget-friendly offerings  
 **:small_blue_diamond:Scope:** Encompasses the development of a feature-rich iOS app leveraging Swift, integrating real-time data updates, personalized recommendations, and push notifications for exclusive deals, with a focus on delivering a seamless and intuitive user experience within the defined project timeline  
 
