@@ -4,7 +4,7 @@
 
 For users that want to go on vacations but can't afford them. This project will be an app that creates a personalized travel itenary that fits a user's budget
 
-**:small_blue_diamond:Project Name:** Budget-Friendly Itenary  
+**:small_blue_diamond:Project Name:** TravelDreams on a Budget  
 **:small_blue_diamond:Leader:** Antwon Walls  
 **:small_blue_diamond:Budget:** $0  
 **:small_blue_diamond:Contributors:** None  
@@ -79,7 +79,7 @@ An app designed to help users discover and support local businesses while travel
 
 ## :beginner: Evaluated Idea #1
 
-**:small_blue_diamond:Project Name:** Budget-Friendly Itenary  
+**:small_blue_diamond:Project Name:** TravelDreams on a Budget  
 **:small_blue_diamond:Category:** Travel  
 **:small_blue_diamond:Mobile:** UI will have a similar interface to Expedia, implementing Table Views  
 **:small_blue_diamond:Story:** Creates a relationship between a person's desires and their spending power!  
