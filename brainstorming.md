@@ -2,9 +2,7 @@
 
 ## :beginner: App Idea #1
 
-:::success
 For users that want to go on vacations but can't afford them. This project will be an app that creates a personalized travel itenary that fits a user's budget
-:::
 
 **:small_blue_diamond:Project Name:** Budget-Friendly Itenary  
 **:small_blue_diamond:Leader:** Antwon Walls  
