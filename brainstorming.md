@@ -11,6 +11,7 @@ For users that want to go on vacations but can't afford them. This project will 
 **:small_blue_diamond:Target Audience:** Budget Travelers 
 **:small_blue_diamond:Expected Launch Date:** 2026
 
+
 ## :triangular_flag_on_post: Background
 
 A lot of people cancel trips because they can't afford them. These problems arise as a result of poor financial management. An innovative travel app suggests a budget-friendly itinerary. This app suggests places to stay that are less expensive, trips that save time, and various deals and discounts. As a result, it is simpler for people who enjoy traveling to plan trips without worrying about their finances.
