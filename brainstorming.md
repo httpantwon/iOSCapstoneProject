@@ -90,3 +90,6 @@ An app designed to help users discover and support local businesses while travel
 **:small_blue_diamond:Category:** Lifestyle  
 **:small_blue_diamond:Mobile:**  
 1. Will need backend components to handle server-side logic, data storage, and communication with external services. For the backend, I can use Swift frameworks like Vapor or Perfect, or integrate with backend-as-a-service (BaaS) platforms such as Firebase or AWS Amplify. These backend solutions may allow me to implement features like user authentication, data storage, and real-time updates for your app
+
+**:small_blue_diamond:Story:** Bridges the gap between travelers and authentic local experiences, fostering a deep connection between users and the vibrant communities they visit  
+**:small_blue_diamond:Market:** Any traveler
