@@ -29,7 +29,7 @@ A lot of people cancel trips because they can't afford them. These problems aris
 
 ## :beginner: App Idea #2
 
-**:small_blue_diamond:Project Name:** Local Translator App
+**:small_blue_diamond:Project Name:** Local Translator App  
 **:small_blue_diamond:Leader:** Antwon Walls  
 **:small_blue_diamond:Budget:** $0  
 **:small_blue_diamond:Contributors:** None  
