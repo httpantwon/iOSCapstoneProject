@@ -13,9 +13,7 @@ For users that want to go on vacations but can't afford them. This project will 
 
 ## :triangular_flag_on_post: Background
 
-:::success
 A lot of people cancel trips because they can't afford them. These problems arise as a result of poor financial management. An innovative travel app suggests a budget-friendly itinerary. This app suggests places to stay that are less expensive, trips that save time, and various deals and discounts. As a result, it is simpler for people who enjoy traveling to plan trips without worrying about their finances.
-:::
 
 ## :pencil: Challenges
 
@@ -40,9 +38,7 @@ A lot of people cancel trips because they can't afford them. These problems aris
 
 ## :triangular_flag_on_post: Background
 
-:::success
 Having a translator with you is always helpful when traveling to another country. As a traveler, if nobody understands your language, you **will** need a translator. This app is an app where users could translate text in real time from one language to another with it. AI could make the translator become more intelligent over time.
-:::
 
 ## :pencil: Challenges
 
@@ -57,18 +53,16 @@ Having a translator with you is always helpful when traveling to another country
 
 ## :beginner: App Idea #3
 
-**:small_blue_diamond:Project Name:** Local Gems Explorer
+**:small_blue_diamond:Project Name:** Local Gems Explorer  
 **:small_blue_diamond:Leader:** Antwon Walls  
 **:small_blue_diamond:Budget:** $0  
 **:small_blue_diamond:Contributors:** None  
-**:small_blue_diamond:Target Audience:** Travelers Who Support Small Businesses
-**:small_blue_diamond:Expected Launch Date:** 2026
+**:small_blue_diamond:Target Audience:** Travelers Who Support Small Businesses  
+**:small_blue_diamond:Expected Launch Date:** 2026  
 
 ## :triangular_flag_on_post: Background
 
-:::success
 An app designed to help users discover and support local businesses while traveling. The Local Gems Explorer app aims to connect travelers with unique and authentic local businesses, from cozy cafes to boutique shops, providing users with a curated selection of hidden gems in their travel destination.
-:::
 
 ## :pencil: Challenges
 
@@ -86,14 +80,13 @@ An app designed to help users discover and support local businesses while travel
 ## :beginner: Evaluated Idea #1
 
 **:small_blue_diamond:Project Name:** Budget-Friendly Itenary  
-**:small_blue_diamond:Category:** Travel
-**:small_blue_diamond:Mobile:** UI will have a similar interface to Expedia, implementing Table Views
-**:small_blue_diamond:Story:** Creates a relationship between a person's desires and their spending power!
-**:small_blue_diamond:Market:** Those with financial constraints who have a deep desire to travel
+**:small_blue_diamond:Category:** Travel  
+**:small_blue_diamond:Mobile:** UI will have a similar interface to Expedia, implementing Table Views  
+**:small_blue_diamond:Story:** Creates a relationship between a person's desires and their spending power!  
+**:small_blue_diamond:Market:** Those with financial constraints who have a deep desire to travel  
 
 ## :beginner: Evaluated Idea #2
-**:small_blue_diamond:Project Name:** Local Gems Explorer
-**:small_blue_diamond:Category:** Lifestyle
-
-**:small_blue_diamond:Mobile:** 
+**:small_blue_diamond:Project Name:** Local Gems Explorer  
+**:small_blue_diamond:Category:** Lifestyle  
+**:small_blue_diamond:Mobile:**   
 Will need backend components to handle server-side logic, data storage, and communication with external services. For the backend, I can use Swift frameworks like Vapor or Perfect, or integrate with backend-as-a-service (BaaS) platforms such as Firebase or AWS Amplify. These backend solutions may allow me to implement features like user authentication, data storage, and real-time updates for your app
