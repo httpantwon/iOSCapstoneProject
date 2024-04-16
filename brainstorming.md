@@ -95,4 +95,6 @@ An app designed to help users discover and support local businesses while travel
 4. **Push Notifications:** The app sends push notifications for exclusive deals, nearby gems, and personalized recommendations, enhancing user engagement and interaction  
 
 **:small_blue_diamond:Story:** Bridges the gap between travelers and authentic local experiences, fostering a deep connection between users and the vibrant communities they visit  
-**:small_blue_diamond:Market:** Any traveler
+**:small_blue_diamond:Market:** Targets a broad audience of budget-conscious travelers seeking authentic experiences and supporting local businesses, presenting a significant opportunity in the growing sustainable tourism sector
+**:small_blue_diamond:Habit:** With personalized recommendations, real-time updates, and gamification elements, Local Gems Explorer fosters frequent engagement, becoming a go-to tool for travelers seeking hidden gems and deals
+**:small_blue_diamond:Scope:** Local Gems Explorer aims to deliver a feature-rich mobile app that combines mapping functionality, real-time updates, personalized recommendations, and community engagement features, with feasible development within the program timeline
