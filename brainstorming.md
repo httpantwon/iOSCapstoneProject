@@ -1,9 +1,5 @@
 # App Ideas
 
-:::info
-:bulb: This template is for preparing a brief.
-:::
-
 ## :beginner: App Idea #1
 
 :::success
