@@ -8,7 +8,7 @@ For users that want to go on vacations but can't afford them. This project will 
 **:small_blue_diamond:Leader:** Antwon Walls  
 **:small_blue_diamond:Budget:** $0  
 **:small_blue_diamond:Contributors:** None  
-**:small_blue_diamond:Target Audience:** Budget Travelers
+**:small_blue_diamond:Target Audience:** Budget Travelers 
 **:small_blue_diamond:Expected Launch Date:** 2026
 
 ## :triangular_flag_on_post: Background
