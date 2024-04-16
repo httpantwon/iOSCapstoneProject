@@ -33,7 +33,7 @@ A lot of people cancel trips because they can't afford them. These problems aris
 **:small_blue_diamond:Leader:** Antwon Walls  
 **:small_blue_diamond:Budget:** $0  
 **:small_blue_diamond:Contributors:** None  
-**:small_blue_diamond:Target Audience:** People who are foreign to their vacation destination's language
+**:small_blue_diamond:Target Audience:** People who are foreign to their vacation destination's language  
 **:small_blue_diamond:Expected Launch Date:** 2026
 
 ## :triangular_flag_on_post: Background
