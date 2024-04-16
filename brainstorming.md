@@ -2,20 +2,22 @@
 
 ## :beginner: App Idea #1
 
+:::success
 For users that want to go on vacations but can't afford them. This project will be an app that creates a personalized travel itenary that fits a user's budget
+:::
 
 **:small_blue_diamond:Project Name:** Budget-Friendly Itenary  
 **:small_blue_diamond:Leader:** Antwon Walls  
 **:small_blue_diamond:Budget:** $0  
-**:small_blue_diamond:Contributors:** None
-**:small_blue_diamond:Expected Launch Date:** 2026
+**:small_blue_diamond:Contributors:** None  
 **:small_blue_diamond:Target Audience:** Budget Travelers 
-
-
+**:small_blue_diamond:Expected Launch Date:** 2026
 
 ## :triangular_flag_on_post: Background
 
+:::success
 A lot of people cancel trips because they can't afford them. These problems arise as a result of poor financial management. An innovative travel app suggests a budget-friendly itinerary. This app suggests places to stay that are less expensive, trips that save time, and various deals and discounts. As a result, it is simpler for people who enjoy traveling to plan trips without worrying about their finances.
+:::
 
 ## :pencil: Challenges
 
@@ -28,6 +30,7 @@ A lot of people cancel trips because they can't afford them. These problems aris
 1. I could use APIs from trusted sources like Expedia, Hotels.com, etc., flight aggregators, and deal websites. I also need ot regularly update my database to make sure information is accurate
 2. For difficult algorithms, gather user feedback and behavior data to continuously improve the accuracy of recommendations. Thoroughly test and refine algorithms to make sure they provide relevant and personalized suggestions
 
+
 ## :beginner: App Idea #2
 
 **:small_blue_diamond:Project Name:** Local Translator App
@@ -39,7 +42,9 @@ A lot of people cancel trips because they can't afford them. These problems aris
 
 ## :triangular_flag_on_post: Background
 
+:::success
 Having a translator with you is always helpful when traveling to another country. As a traveler, if nobody understands your language, you **will** need a translator. This app is an app where users could translate text in real time from one language to another with it. AI could make the translator become more intelligent over time.
+:::
 
 ## :pencil: Challenges
 
@@ -63,7 +68,9 @@ Having a translator with you is always helpful when traveling to another country
 
 ## :triangular_flag_on_post: Background
 
+:::success
 An app designed to help users discover and support local businesses while traveling. The Local Gems Explorer app aims to connect travelers with unique and authentic local businesses, from cozy cafes to boutique shops, providing users with a curated selection of hidden gems in their travel destination.
+:::
 
 ## :pencil: Challenges
 
