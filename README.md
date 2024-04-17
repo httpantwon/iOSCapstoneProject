@@ -48,7 +48,7 @@ A lot of people cancel trips because they can't afford them. These problems aris
 - [x] **Login/Registration Screen**
 * Scren where user can login or create a new account
 
-- [x] **Home Scree**
+- [x] **Explore Destinations Screen**
 * Displays a feed of budget-friendly travel destinations, accomodations, and experiences
 
 - [x] **Search Screen**
@@ -73,6 +73,9 @@ A lot of people cancel trips because they can't afford them. These problems aris
 
 - [x] Registration Screen
 * Home
+
+- [ ] Stream Screen
+* Currently not implemented
 
 - [ ] Search Screen
 * Currently not implemented
