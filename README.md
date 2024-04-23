@@ -74,14 +74,14 @@ A lot of people cancel trips because they can't afford them. These problems aris
 - [x] Registration Screen
 * Home
 
-- [ ] Stream Screen
-* Currently not implemented
+~~- [ ] Stream Screen~~
+~~* Currently not implemented~~
 
-- [ ] Search Screen
-* Currently not implemented
+- [x] Search Screen
+~~* Currently not implemented~~
 
-- [ ] Saved Trips Screen
-* Currently not implemented
+- [x] Saved Trips Screen
+~~* Currently not implemented~~
 
 ## Wireframes
 
