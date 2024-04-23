@@ -86,7 +86,7 @@ A lot of people cancel trips because they can't afford them. These problems aris
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section]
-<img src="(http://imgur.com/a/5GUBN4O)" width=600>
+<img src="http://imgur.com/a/5GUBN4O" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
