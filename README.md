@@ -105,3 +105,7 @@ A lot of people cancel trips because they can't afford them. These problems aris
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+### Updates
+I was not able to finish my project due to preparing for back to back exams. I have been in a highly stressful environment for the past 3 weeks. This has affected my performance in the Capstone Project. A majority of the things I mentioned in here, I simply was not able to accomplish in time. 
+[Video](https://www.youtube.com/watch?v=S7AjRDKEIr8)
